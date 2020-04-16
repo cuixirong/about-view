@@ -1,1 +1,2 @@
-systemctl start httpd
+yum -y install httpd
+systemctl restart httpd
